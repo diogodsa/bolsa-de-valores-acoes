@@ -1,5 +1,5 @@
 # Descrição do projeto
-Código Python para análise de correlação. Utilizando uma técnica de análise multivariada que identifica um número menor de fatores que podem representar relações entre variáveis que estão inter relacionadas. 
+Código Python para análise de correlações. Utilizando uma técnica de análise multivariada que identifica um número menor de fatores que podem representar relações entre variáveis que estão inter relacionadas. 
 <br><br>
 Este projeto está levando em consideração todos os ativos da bolsa de valores até o ano de 2020. 
 <br><br>
