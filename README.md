@@ -29,13 +29,13 @@ df_segmentation.head()
 df_segmentation.corr()
 
 # Plotando um gráfico de correlação
-plt.figure(figsize = (22, 19))
-s = sns.heatmap(df_segmentation.corr(),
-               annot = True, 
-               cmap = 'RdBu',
-               vmin = -1, 
-               vmax = 1)
-s.set_yticklabels(s.get_yticklabels(), rotation = 0, fontsize = 12)
-s.set_xticklabels(s.get_xticklabels(), rotation = 90, fontsize = 12)
-plt.title('Correlation Heatmap')
+plt.figure(figsize = (22, 19)) <br>
+s = sns.heatmap(df_segmentation.corr(),<br>
+               annot = True, <br>
+               cmap = 'RdBu',<br>
+               vmin = -1, <br>
+               vmax = 1)<br>
+s.set_yticklabels(s.get_yticklabels(), rotation = 0, fontsize = 12)<br>
+s.set_xticklabels(s.get_xticklabels(), rotation = 90, fontsize = 12)<br>
+plt.title('Correlation Heatmap')<br>
 plt.show()
