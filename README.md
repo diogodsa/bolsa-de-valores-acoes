@@ -1,5 +1,6 @@
 # Descrição do projeto
-Código Python para análise de correlação. Utilizando uma técnica de análise multivariada que identifica um número menor de fatores que podem representar relações entre variáveis que estão inter relacionadas.
+Código Python para análise de correlação. Utilizando uma técnica de análise multivariada que identifica um número menor de fatores que podem representar relações entre variáveis que estão inter relacionadas. Este projeto está levando em consideração todos os ativos da bolsa de valores até o ano de 2020. Além disso, estamos levando consideração para o calculo as seguintes variaveis: Cotação, P/L, P/VP	PSR, Div. Yield, P/ Ativo, P/ Cap. Giro, P/ EBIT, P/ Ativ. Circ. Liq, EV/EBIT, Magem EBIT, Magem Líquida, Liq. Corr., ROIC, ROE, Liq. 2 meses, Patrim. Líq., Dívida Bruta/Patrim. e	Cresc. Rec. 5a.
+
 
 # PCA - Principal Component Analisys 
 Variáveis que apresentam correlação expressiva compartilham algum fator em comum que pode substituí-las, preservando um bom percentual da variabilidade dos dados originais. O PCA aplica-se apenas para variáveis numéricas.
