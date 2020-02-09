@@ -3,7 +3,7 @@ Código Python para análise de correlação. Utilizando uma técnica de anális
 <br><br>
 Este projeto está levando em consideração todos os ativos da bolsa de valores até o ano de 2020. 
 <br><br>
-Além disso, estamos levando consideração para o cálculo as seguintes variáveis: <b>Cotação, P/L, P/VP	PSR, Div. Yield, P/ Ativo, P/ Cap. Giro, P/ EBIT, P/ Ativ. Circ. Liq, EV/EBIT, Magem EBIT, Magem Líquida, Liq. Corr., ROIC, ROE, Liq. 2 meses, Patrim. Líq., Dívida Bruta/Patrim. e	Cresc. Rec. 5a.</b>
+Além disso, estamos levando em consideração para o cálculo, as seguintes variáveis: <b>Cotação, P/L, P/VP	PSR, Div. Yield, P/ Ativo, P/ Cap. Giro, P/ EBIT, P/ Ativ. Circ. Liq, EV/EBIT, Magem EBIT, Magem Líquida, Liq. Corr., ROIC, ROE, Liq. 2 meses, Patrim. Líq., Dívida Bruta/Patrim. e	Cresc. Rec. 5a.</b>
 
 
 # PCA - Principal Component Analisys 
