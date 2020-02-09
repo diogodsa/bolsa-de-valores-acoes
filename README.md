@@ -49,4 +49,4 @@ plt.show()
 
 <br><br><br>
 
-<span><b>Desenvolvido por: https://www.linkedin.com/in/diogoss/</b><span>
+<span><b>Desenvolvido por: <a href="https://www.linkedin.com/in/diogoss/" taget="_blank">https://www.linkedin.com/in/diogoss/</a></b><span>
