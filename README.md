@@ -47,6 +47,6 @@ plt.show()
 
 <img src="https://github.com/diogodsa/bolsa-de-valores-acoes/blob/master/img-correlacao-b3.png?raw=true" alt="img-correlacao-b3.png">
 
-<br><br><br><br>
+<br><br><br>
 
 <span><b>Desenvolvido por: https://www.linkedin.com/in/diogoss/</b><span>
