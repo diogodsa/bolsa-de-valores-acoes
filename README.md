@@ -39,3 +39,5 @@ s.set_yticklabels(s.get_yticklabels(), rotation = 0, fontsize = 12)<br>
 s.set_xticklabels(s.get_xticklabels(), rotation = 90, fontsize = 12)<br>
 plt.title('Correlation Heatmap')<br>
 plt.show()
+
+<img src="/diogodsa/bolsa-de-valores-acoes/blob/master/img-correlacao-b3.png?raw=true" alt="img-correlacao-b3.png">
