@@ -24,3 +24,5 @@ df_segmentation = pd.read_excel('balanco-ativos-b3.xlsx', index_col = 0)
 
 # Explorando os dados
 df_segmentation.head()
+
+https://colab.research.google.com/drive/1IUSDlNFBCjLUqsKTAKrEqGJaaeOsnl3I#scrollTo=1EjyJlSCX6HM
