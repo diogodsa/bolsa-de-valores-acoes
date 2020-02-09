@@ -25,4 +25,17 @@ df_segmentation = pd.read_excel('balanco-ativos-b3.xlsx', index_col = 0)
 # Explorando os dados
 df_segmentation.head()
 
-https://colab.research.google.com/drive/1IUSDlNFBCjLUqsKTAKrEqGJaaeOsnl3I#scrollTo=1EjyJlSCX6HM
+# Correlação estimada
+df_segmentation.corr()
+
+# Plotando um gráfico de correlação
+plt.figure(figsize = (22, 19))
+s = sns.heatmap(df_segmentation.corr(),
+               annot = True, 
+               cmap = 'RdBu',
+               vmin = -1, 
+               vmax = 1)
+s.set_yticklabels(s.get_yticklabels(), rotation = 0, fontsize = 12)
+s.set_xticklabels(s.get_xticklabels(), rotation = 90, fontsize = 12)
+plt.title('Correlation Heatmap')
+plt.show()
